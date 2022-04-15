@@ -1,0 +1,651 @@
+Which year are you in?,How are you feeling right now?,"On a scale of 1-100, how would you express this feeling?",Gender,Age,Your location ?,Relationship status,Are you happy with your financial state?,How much have you succeeded to cope up with the environment of your educational institution?,Understanding with your family members?,Are you feeling pressure in your study or work right now?,Are you satisfied with your academic result?,Are you happy with your living place?,Who supports you when you are not succeeding in your academic life?,Have you used any social media within the last 6 hours?,Do you have inferiority complex? ,Are you satisfied with your meal today?,Are you feeling sick/health issues today?,"Have you done any recreational activity (sports, gaming, hobby etc.) today?",How long did you sleep last night?(in hours)
+4th year,Normal,50,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,6
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,Maybe,Yes,No,No,7
+4th year,Normal,70,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,8
+1st year,Normal,50,Male,22,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,No,No,Yes,No,No,6
+1st year,Good,60,Male,22,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Yes,No,No,6
+1st year,Normal,50,Male,22,Department,Single,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Yes,No,No,7
+2nd year,Good,65,Male,23,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Yes,No,No,7
+2nd year,Normal,50,Male,23,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Normal,50,Male,23,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Yes,No,No,7
+3rd year,Good,70,Male,24,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Department,In a relationship,Yes,3,Good,Yes,No,Yes,No one,Yes,No,Yes,No,No,6
+1st year,Normal,50,Male,22,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Yes,No,No,7
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Yes,No,No,7
+2nd year,Normal,60,Male,23,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Good,80,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,7
+2nd year,Normal,55,Male,23,Department,In a relationship,Yes,3,Good,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Yes,No,No,8
+1st year,Normal,55,Male,22,Department,Single,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,8
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Good,80,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,7
+2nd year,Normal,60,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Normal,50,Male,22,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,80,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Normal,50,Male,22,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,80,Male,22,Department,In a relationship,Yes,3,Good,No,Not applicable,Yes,Not applicable,Yes,No,Yes,No,No,7
+1st year,Normal,60,Male,22,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,6
+3rd year,Normal,55,Male,24,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,No,No,Yes,No,No,7
+4th year,Good,75,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,80,Male,25,Department,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,6
+3rd year,Normal,60,Male,24,Home,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2nd year,Good,80,Male,23,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Good,60,Male,21,Home,Single,Yes,5,Good,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Very good,90,Male,20,Home,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,7
+1st year,Very good,95,Male,22,Department,Single,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,8
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2nd year,Good,80,Male,23,Department,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2nd year,Normal,55,Male,23,Department,In a relationship,Yes,4,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Bad,30,Male,22,Department,Single,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,5
+2nd year,Normal,60,Male,23,Home,In a relationship,Yes,4,Normal,Yes,No,Yes,No one,Yes,No,Neutral,No,No,7
+Not applicable,Very good,95,Male,20,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,7
+Not applicable,Good,80,Male,21,College,Single,Yes,5,Good,Not applicable,Yes,Not applicable,Not applicable,No,No,Yes,No,No,6
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,No,No,Yes,No,No,8
+Not applicable,Very good,90,Male,19,School,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,No,6
+Not applicable,Very good,95,Male,18,Playground,Single,Yes,5,Good,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Good,80,Male,22,Department,Single,Yes,3,Good,No,Not applicable,Not applicable,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Normal,55,Male,25,Home,In a relationship,Yes,3,Normal,Not applicable,No,Not applicable,Not applicable,Yes,No,Yes,No,No,6
+Not applicable,Good,85,Male,18,School,Single,Yes,5,Good,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Bad,30,Male,24,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,5
+Not applicable,Very good,90,Male,17,Playground,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,Yes,6
+3rd year,Normal,60,Male,24,Home,In a relationship,Yes,4,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+3rd year,Good,80,Male,24,Home,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,7
+3rd year,Bad,35,Male,24,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,No,No,6
+3rd year,Very good,90,Male,24,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,Yes,7
+Not applicable,Bad,40,Male,18,Home,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Yes,No,No,6
+3rd year,Bad,35,Male,24,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,Maybe,Neutral,No,No,5
+4th year,Bad,90,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,Yes,7
+3rd year,Normal,50,Male,24,Department,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Normal,50,Male,17,Home,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Very bad,10,Male,17,Home,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,Yes,No,7
+3rd year,Good,80,Male,24,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Good,80,Male,24,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Neutral,No,No,7
+2nd year,Bad,30,Male,23,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,60,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,6
+Not applicable,Very good,95,Male,17,Playground,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+4th year,Normal,55,Male,25,Home,In a relationship,Yes,3,Normal,No,Not applicable,Not applicable,No one,Yes,Maybe,Neutral,No,Yes,7
+1st year,Very good,95,Male,22,Department,Single,Yes,3,Good,No,Not applicable,Yes,Not applicable,No,No,Yes,No,Yes,7
+1st year,Normal,60,Male,22,Department,In a relationship,Yes,3,Normal,No,Not applicable,Yes,Not applicable,Yes,No,Yes,No,No,6
+1st year,Very good,90,Male,22,Home,In a relationship,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Yes,No,Yes,7
+Not applicable,Good,80,Male,20,College,Single,Yes,5,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Good,80,Male,24,Playground,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Neutral,No,Yes,6
+2nd year,Bad,20,Male,23,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,18,Playground,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Neutral,No,Yes,6
+Not applicable,Normal,60,Male,21,College,Single,Yes,5,Normal,No,Yes,Yes,Not applicable,No,No,Yes,No,No,7
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,8
+1st year,Very bad,10,Male,22,Department,Single,Yes,2,Normal,No,Not applicable,Yes,Not applicable,No,No,Neutral,No,No,6
+3rd year,Good,80,Male,24,Department,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,Maybe,Neutral,No,No,7
+2nd year,Normal,50,Male,23,Home,In a relationship,No,3,Normal,No,No,Not applicable,No one,Yes,Maybe,Yes,No,No,6
+2nd year,Good,80,Male,23,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Normal,60,Male,21,Home,Single,No,5,Normal,No,Yes,Yes,Not applicable,No,No,Neutral,No,No,6
+2nd year,Bad,20,Male,23,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,5
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,3,Good,No,No,Yes,No one,Yes,No,Neutral,No,No,8
+1st year,Very good,95,Male,22,Department,Single,Yes,3,Good,No,Not applicable,Yes,Not applicable,Yes,No,Yes,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Good,Yes,No,Yes,No one,Yes,Maybe,Neutral,No,No,7
+Not applicable,Very bad,5,Male,22,Department,In a relationship,Yes,2,Normal,No,Not applicable,Yes,No one,No,No,Yes,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,No,Neutral,Yes,No,7
+Not applicable,Very good,95,Male,16,Playground,Single,No,5,Good,No,Yes,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+1st year,Normal,50,Male,22,Department,Single,Yes,3,Normal,Not applicable,Not applicable,Yes,No one,Yes,No,Yes,No,No,6
+2nd year,Normal,60,Male,23,Home,In a relationship,Yes,3,Normal,Yes,No,Yes,No one,Yes,Maybe,No,No,No,5
+4th year,Normal,55,Male,24,Playground,In a relationship,Yes,3,Normal,No,No,Not applicable,No one,Yes,No,Neutral,No,Yes,6
+Not applicable,Bad,30,Male,17,Home,Single,Yes,5,Normal,No,No,Yes,No one,No,No,Yes,Yes,No,6
+3rd year,Very good,95,Male,24,Home,In a relationship,Yes,4,Good,No,No,Yes,No one,Yes,No,Neutral,No,No,7
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+1st year,Good,60,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Good,55,Male,23,Department,In a relationship,Yes,3,Good,Not applicable,No,Yes,No one,Yes,No,Neutral,No,No,6
+4th year,Bad,20,Male,25,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+4th year,Bad,20,Male,25,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+4th year,Bad,20,Male,25,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+4th year,Very bad,15,Male,25,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,95,Male,20,Playground,Single,Yes,3,Good,No,Yes,Not applicable,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Very bad,5,Male,24,Home,In a relationship,Yes,2,Normal,Yes,No,No,No one,Yes,No,Neutral,Yes,No,6
+3rd year,Very bad,10,Male,24,Department,In a relationship,Yes,2,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,No,Yes,No,6
+4th year,Very good,90,Male,25,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Yes,No,Yes,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Normal,55,Male,17,School,Single,Yes,5,Normal,No,Yes,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Very good,90,Male,23,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,Yes,Yes,No,Yes,6
+Not applicable,Very good,95,Male,15,Playground,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Bad,20,Male,25,Department,In a relationship,Yes,3,Normal,Yes,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+Not applicable,Very good,90,Male,19,Playground,Single,Yes,3,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+Not applicable,Good,70,Male,21,College,Single,Yes,5,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+4th year,Good,70,Male,25,Home,In a relationship,Yes,3,Good,No,No,Not applicable,Not applicable,No,No,Neutral,No,No,6
+4th year,Bad,15,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,Yes,No,6
+1st year,Very good,90,Male,22,Department,Single,Yes,4,Good,No,Yes,Yes,No one,Yes,No,Neutral,No,No,7
+1st year,Good,70,Male,22,Home,Single,Yes,4,Good,No,Not applicable,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,50,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,6
+2nd year,Normal,22,Male,23,Department,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,6
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Very good,95,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+2nd year,Good,80,Male,23,Home,In a relationship,Yes,4,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+3rd year,Normal,60,Male,24,Home,In a relationship,Yes,3,Good,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+4th year,Good,80,Male,25,Department,In a relationship,Yes,3,Normal,No,No,Yes,No one,Yes,No,Yes,No,No,6
+4th year,Good,75,Male,25,Home,In a relationship,Yes,3,Normal,No,No,Yes,Not applicable,Yes,No,Neutral,No,No,7
+1st year,Normal,50,Male,22,Department,In a relationship,Yes,3,Normal,Yes,No,Yes,Not applicable,Yes,No,Neutral,No,No,6
+4th year,Normal,50,Male,25,Home,In a relationship,No,3,Normal,Yes,No,Not applicable,Not applicable,Yes,No,Neutral,No,No,8
+3rd year,Bad,15,Male,24,Department,In a relationship,No,2,Normal,Yes,No,Yes,No one,Yes,Not applicable,Neutral,Yes,No,6
+1st year,Very bad,1,Male,22,Home,Single,Yes,2,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,Yes,No,6
+3rd year,Good,60,Male,24,Home,In a relationship,Yes,3,Normal,No,No,Not applicable,Not applicable,Yes,Maybe,Neutral,No,No,8
+2nd year,Bad,10,Male,23,Department,In a relationship,No,2,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,Yes,No,5
+3rd year,Normal,55,Male,24,Playground,In a relationship,Yes,3,Normal,No,No,Not applicable,No one,Yes,No,Yes,No,Yes,7
+Not applicable,Very good,90,Male,20,College,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Very good,90,Male,20,College,Single,Yes,4,Good,No,Yes,Yes,Not applicable,No,No,Yes,No,Yes,7
+Not applicable,Very bad,1,Male,19,School,Single,Yes,4,Normal,No,Yes,Yes,No one,No,No,Neutral,Yes,No,6
+4th year,Bad,20,Male,25,Home,It's complicated,Yes,3,Normal,Yes,No,Not applicable,No one,Yes,Maybe,Neutral,Yes,No,6
+4th year,Very bad,19,Male,25,Home,In a relationship,No,2,Bad,Yes,No,Yes,Not applicable,Yes,Maybe,No,No,Yes,6
+4th year,Good,83,Male,25,Home,In a relationship,Yes,3,Good,No,Yes,Yes,Friends,Yes,No,Yes,No,Yes,8
+4th year,Good,87,Male,25,Playground,In a relationship,Yes,5,Normal,No,No,Yes,Not applicable,Yes,No,Yes,No,No,8
+4th year,Normal,57,Male,25,Playground,In a relationship,No,3,Good,Yes,No,No,Friends,Yes,Maybe,Neutral,No,No,7
+4th year,Good,72,Male,25,Playground,In a relationship,Yes,3,Normal,No,Yes,Yes,Friends,Yes,No,Yes,No,No,6
+1st year,Good,80,Male,22,Playground,In a relationship,Yes,3,Normal,No,Yes,Yes,Not applicable,Yes,No,Neutral,No,No,7
+Not applicable,Good,85,Male,19,Playground,In a relationship,Yes,5,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,9
+Not applicable,Bad,20,Male,20,Home,In a relationship,No,1,Bad,Yes,No,No,Family,Yes,Yes,No,No,Yes,6
+Not applicable,Bad,24,Male,19,Home,In a relationship,No,3,Normal,Yes,Yes,No,Not applicable,Yes,Maybe,Yes,No,No,3
+Not applicable,Bad,20,Male,19,Playground,In a relationship,No,3,Bad,Yes,Yes,No,Friends,Yes,No,Neutral,Yes,No,7
+1st year,Very good,99,Male,22,Playground,In a relationship,Yes,3,Good,No,No,Yes,Friends,Yes,No,Yes,No,No,9
+3rd year,Very good,95,Male,24,Home,In a relationship,Yes,3,Normal,No,Yes,Yes,Family,Yes,No,Neutral,No,Yes,8
+2nd year,Good,75,Male,23,Home,In a relationship,Yes,3,Good,No,Yes,Yes,Family,Yes,No,Yes,No,No,6
